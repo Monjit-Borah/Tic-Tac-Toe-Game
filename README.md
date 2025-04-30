@@ -1,0 +1,1 @@
+Tic Tac Toe is a simple two-player strategy game played on a 3×3 grid. The objective is to be the first player to get three of your marks (either X or O) in a row—horizontally, vertically, or diagonally.
