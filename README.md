@@ -75,7 +75,7 @@ Just open `index.html` in your favorite browser.
 
 ---
 
-## 🧪 Development Notes
+## Development Notes
 
 This project helped me level up on:
 
@@ -87,17 +87,13 @@ This project helped me level up on:
 
 ---
 
-## 💬 Feedback
+## Feedback
 
 If you have ideas to improve the game or want to add AI or more features, feel free to **open an issue** or **submit a pull request**.
 
 ---
 
-## 🙌 Thanks for Checking It Out
+## Thanks for Checking It Out
 
 Made with ❤️ to explore frontend JavaScript and creative UI.  
 Feel free to play around with the code and customize your own version.
-
----
-
-If you want, I can also add **shields (stars, forks, license)** and a **Contributing section** to make it even more professional! 💡
