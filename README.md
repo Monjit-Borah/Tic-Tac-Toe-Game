@@ -9,7 +9,7 @@ Welcome to my **Tic Tac Toe Game** — a fun, interactive browser game built to 
 
 ## About the Project
 
-This is a classic Tic Tac Toe game built for two players on the same screen. The game detects wins, ties, and resets cleanly. Background music adds mood during play. It’s fully implemented in **vanilla JavaScript, HTML, and CSS** — no frameworks!
+This is a classic Tic Tac Toe game built for two players on the same screen. The game detects wins, ties, and resets cleanly. Background music adds mood during play. It’s fully implemented in **JavaScript, HTML, and CSS** — no frameworks!
 
 ---
 
@@ -35,7 +35,7 @@ Sound experience to make playing more engaging
 
 ---
 
-## 🕹️ How to Play
+## How to Play
 
 1. Open the game in your browser.
 2. Player 1 starts as **X**.
@@ -46,7 +46,7 @@ Sound experience to make playing more engaging
 
 ---
 
-## 🧩 Gameplay Logic
+## Gameplay Logic
 
 This game keeps a 1D array of the board’s state, where each index represents a cell on the 3×3 board.
 
@@ -56,20 +56,20 @@ This game keeps a 1D array of the board’s state, where each index represents a
 
 ---
 
-## 🎧 Music Experience
+## Music Experience
 
 Music is embedded to enhance gameplay mood.  
 ✔️ You can turn the background music on/off while playing.
 
 ---
 
-## 📌 Usage
+## Usage
 
 ### ⭐ Clone the repository
 
 git clone -> https://github.com/Monjit-Borah/Tic-Tac-Toe-Game.git
 
-## ⭐ Open Locally
+## Open Locally
 
 Just open `index.html` in your favorite browser.
 
