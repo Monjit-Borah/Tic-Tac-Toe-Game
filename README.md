@@ -1,4 +1,4 @@
-# Tic Tac Toe Game 🎮
+# Tic Tac Toe Game 
 
 Welcome to my **Tic Tac Toe Game** — a fun, interactive browser game built to deepen my understanding of **JavaScript**, **CSS**, and **DOM manipulation**. This game includes a clean UI and background music to enhance the experience. It was created as a learning project to solidify core frontend concepts while building something playable and polished.
 
@@ -7,20 +7,20 @@ Welcome to my **Tic Tac Toe Game** — a fun, interactive browser game built to 
 
 ---
 
-## 🧠 About the Project
+## About the Project
 
 This is a classic Tic Tac Toe game built for two players on the same screen. The game detects wins, ties, and resets cleanly. Background music adds mood during play. It’s fully implemented in **vanilla JavaScript, HTML, and CSS** — no frameworks!
 
 ---
 
-## 🚀 Features
+## Features
 
-✨ Two-player local gameplay  
-🎵 Background music with toggle on/off  
-✔️ Win detection for all rows, columns, and diagonals  
-🔁 Reset game state with a restart button  
-🎨 Responsive and clean UI design  
-🔊 Sound experience to make playing more engaging
+Two-player local gameplay  
+Background music with toggle on/off  
+Win detection for all rows, columns, and diagonals  
+Reset game state with a restart button  
+Responsive and clean UI design  
+Sound experience to make playing more engaging
 
 ---
 
@@ -63,43 +63,41 @@ Music is embedded to enhance gameplay mood.
 
 ---
 
-
----
-
 ## 📌 Usage
 
 ### ⭐ Clone the repository
 
-```bash
-git clone https://github.com/Monjit-Borah/Tic-Tac-Toe-Game.git
+git clone -> https://github.com/Monjit-Borah/Tic-Tac-Toe-Game.git
 
-⭐ Open locally
+## ⭐ Open Locally
 
-Just open index.html in your favorite browser.
+Just open `index.html` in your favorite browser.
 
-🧪 Development Notes
+---
+
+## 🧪 Development Notes
 
 This project helped me level up on:
 
-Dynamic DOM updates
+- Dynamic DOM updates  
+- Event listeners  
+- Game state management  
+- CSS animations & transitions  
+- Integrating audio with JavaScript  
 
-Event listeners
+---
 
-Game state management
+## 💬 Feedback
 
-CSS animations & transitions
+If you have ideas to improve the game or want to add AI or more features, feel free to **open an issue** or **submit a pull request**.
 
-Integrating audio with JS
+---
 
-💬 Feedback
+## 🙌 Thanks for Checking It Out
 
-If you have ideas to improve the game or want to add AI or more features, feel free to open an issue or submit a pull request.
-
-🙌 Thanks for Checking It Out
-
-Made with ❤️ to explore frontend JavaScript and creative UI!
+Made with ❤️ to explore frontend JavaScript and creative UI.  
 Feel free to play around with the code and customize your own version.
 
+---
 
 If you want, I can also add **shields (stars, forks, license)** and a **Contributing section** to make it even more professional! 💡
-
