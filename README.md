@@ -3,7 +3,6 @@
 Welcome to my **Tic Tac Toe Game** — a fun, interactive browser game built to deepen my understanding of **JavaScript**, **CSS**, and **DOM manipulation**. This game includes a clean UI and background music to enhance the experience. It was created as a learning project to solidify core frontend concepts while building something playable and polished.
 
 👉 **Live Demo:** https://monjit-borah.github.io/Tic-Tac-Toe-Game/  
-👉 **Source Code:** https://github.com/Monjit-Borah/Tic-Tac-Toe-Game
 
 ---
 
@@ -87,13 +86,5 @@ This project helped me level up on:
 
 ---
 
-## Feedback
-
-If you have ideas to improve the game or want to add AI or more features, feel free to **open an issue** or **submit a pull request**.
-
----
-
 ## Thanks for Checking It Out
 
-Made with ❤️ to explore frontend JavaScript and creative UI.  
-Feel free to play around with the code and customize your own version.
